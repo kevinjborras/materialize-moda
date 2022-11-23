@@ -1,0 +1,19 @@
+a:link {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgb(0, 0, 0);
+}
+
+a:hover {
+    color: rgb(0, 0, 0);}
+
+a:active {
+    color: rgb(0, 0, 0);}
+
+.fa-brands {
+    font-size: 25px;
+    margin-right: 20px;
+}
